@@ -1,0 +1,11 @@
+1. A quina linia es declara la variable "numero"?
+En la linia 13.
+2. A quina linia s'inicialitza la variable "numero"?
+En la linia 21, on s'assigna per primera vegada un numero a la variable.
+3. Si el valor pensat es "10", amb quin valor s'inicialitza la variable "numero"?
+Amb la multiplicacio de 10*3, o sigui 30.
+4. La variable "numero" va canviant de valor durant el programa. Ets capac d'indicar els diferents valors que va rebent dins del programa quan el "numeroPensat" es "10"? Afegeix la linia en la que pren cada valor.
+Quan s'inicialitza, linia 21, el valor es 30
+Quan se'l suma 6, linia 26, el valor es 36
+Quan es divideix, linia 31, el valor es 12
+Quan es resta, linia 36, el valor es 2
